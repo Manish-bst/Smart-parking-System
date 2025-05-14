@@ -5,7 +5,6 @@
 const int trigPin = 9;
 const int echoPin = 10;
 const int servoPin = 6;
-
 // IR Sensor pins
 const int irSensor1Pin = 2;
 const int irSensor2Pin = 3;
